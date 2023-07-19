@@ -1,4 +1,4 @@
-# KDT-WEB-7
-Kdt web 7!
+# web
+web!
 
-kdt web 7
+web 
